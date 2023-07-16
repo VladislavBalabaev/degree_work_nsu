@@ -1,5 +1,5 @@
 # Эмпирическая оценка эффекта гарантий на рынке легковых автомобилей России
-**(data provided here was collected from Drom.ru using [async_drom_parser](https://github.com/user/repo/blob/branch/other_file.md))**  
+**(data provided here was collected from Drom.ru using [async_drom_parser](https://github.com/VladislavBalabaev/async_drom_parser))**  
 
 Основная характеристика данной исследовательской работы заключается эмпирической оценке ценообразующих факторов на автомобильном рынке России, а также отдельно рассматриваемого эффекта гарантий.  
 
